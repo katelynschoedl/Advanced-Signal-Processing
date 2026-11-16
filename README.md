@@ -7,21 +7,16 @@ https://pubs.aip.org/asa/jasa/article/157/5/3655/3346872/Enhancing-fin-whale-voc
 Secondary: Detecting whale vocalizations up to 2.5 kHz using a seafloor distributed acoustic sensing array with incorporated loops
 https://essopenarchive.org/doi/full/10.22541/essoar.15004156/v2 
 
-## The Powerpoint presentation is here (request access):
-https://docs.google.com/presentation/d/1-4J8tGdnAJ7rCERQRVYjC99AdPB7tyiIpsdf0TBjcDg/edit?usp=sharing
+## The presentation is available upon request.
 
 ## My Jupyter notebook / python code for this project is stored here in GitHub:
 Schoedl_DAS_Array_Processing
 
 ## It references functions from the custom python package:
 https://github.com/DAS4Whales/DAS4Whales
-I downloaded locally:
-\Advanced-Signal-Processing\FinalProject\DAS4Whales-DAS4Whales-3cfc942
 
 ## And source code from the author:
 https://github.com/Ocean-Data-Lab/Goestchel_JASA_2025
-I downloaded locally:
-\Advanced-Signal-Processing\FinalProject\Ocean-Data-Lab-Goestchel_JASA_2025-6dcb6db
 
 ## Cable coordinate data from the source code were also copied locally:
 \Advanced-Signal-Processing\FinalProject\data
