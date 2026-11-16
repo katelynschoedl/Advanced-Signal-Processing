@@ -1,21 +1,21 @@
-# The Final Project is stored in FinalProject.
+### The Final Project is stored in FinalProject.
 
 ### The presentation is available upon request.
 
-## The research paper for the final project:
+## The research papera for the final project:
 Primary: Enhancing fin whale vocalizations in distributed acoustic sensing data
 https://pubs.aip.org/asa/jasa/article/157/5/3655/3346872/Enhancing-fin-whale-vocalizations-in-distributed
 
 Secondary: Detecting whale vocalizations up to 2.5 kHz using a seafloor distributed acoustic sensing array with incorporated loops
 https://essopenarchive.org/doi/full/10.22541/essoar.15004156/v2 
 
-## The Jupyter notebook / python code for this project:
-
-Stored here in GitHub as Schoedl_DAS_Array_Processing
-
 ## Lecture Notes from this course:
 
 Stored here in GitHub as Lecture_PDFs
+
+## The Jupyter notebook / python code for the final project:
+
+Stored here in GitHub as Schoedl_DAS_Array_Processing
 
 ### This project references functions from the custom DAS4Whales python package:
 https://github.com/DAS4Whales/DAS4Whales
