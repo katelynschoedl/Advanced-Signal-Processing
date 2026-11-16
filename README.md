@@ -11,10 +11,13 @@ https://essopenarchive.org/doi/full/10.22541/essoar.15004156/v2
 
 ## The Jupyter notebook / python code for this project:
 
-Stored here in GitHub as:
-Schoedl_DAS_Array_Processing
+Stored here in GitHub as Schoedl_DAS_Array_Processing
 
-### It references functions from the custom DAS4Whales python package:
+## Lecture Notes from this course:
+
+Stored here in GitHub as Lecture_PDFs
+
+### This project references functions from the custom DAS4Whales python package:
 https://github.com/DAS4Whales/DAS4Whales
 
 ### ...and source code from the primary author:
@@ -26,13 +29,13 @@ https://github.com/Ocean-Data-Lab/Goestchel_JASA_2025
 - FinalProject\data\north_DAS_multicoord.csv
 - FinalProject\data\sorth_DAS_multicoord.csv
 
-## Sources
+## Additional Sources
 
-OOI Regional Cabled Array: https://oceanobservatories.org/regional-cabled-array/
-Subsea Cables Map: https://www.submarinecablemap.com/
-Multiplexed Distributed Acoustic Sensing Offshore Central Oregon https://pubs.geoscienceworld.org/ssa/srl/article/96/2A/784/652443/Multiplexed-Distributed-Acoustic-Sensing-Offshore
-Characterisation of the optical response to seismic waves of submarine telecommunications cables with distributed and integrated fibre-optic sensing https://www.nature.com/articles/s41598-024-83107-x
-Distributed acoustic sensing recordings of low-frequency whale calls and ship noise offshore Central Oregon https://www.researchgate.net/publication/368234175_Distributed_acoustic_sensing_recordings_of_low-frequency_whale_calls_and_ship_noise_offshore_Central_Oregon
-Distributed_acoustic_sensing_for_marine_mammal_monitoring https://www.researchgate.net/publication/417655067_Distributed_acoustic_sensing_for_marine_mammal_monitoring 
-Simultaneous tracking of multiple whales using two fiber-optic cables in the Arctic https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1130898/full 
-Detection of hydroacoustic signals on a fiber-optic submarine cable https://www.nature.com/articles/s41598-021-82093-8 
+- OOI Regional Cabled Array: https://oceanobservatories.org/regional-cabled-array/
+- Subsea Cables Map: https://www.submarinecablemap.com/
+- Multiplexed Distributed Acoustic Sensing Offshore Central Oregon https://pubs.geoscienceworld.org/ssa/srl/article/96/2A/784/652443/Multiplexed-Distributed-Acoustic-Sensing-Offshore
+- Characterisation of the optical response to seismic waves of submarine telecommunications cables with distributed and integrated fibre-optic sensing https://www.nature.com/articles/s41598-024-83107-x
+- Distributed acoustic sensing recordings of low-frequency whale calls and ship noise offshore Central Oregon https://www.researchgate.net/publication/368234175_Distributed_acoustic_sensing_recordings_of_low-frequency_whale_calls_and_ship_noise_offshore_Central_Oregon
+- Distributed_acoustic_sensing_for_marine_mammal_monitoring https://www.researchgate.net/publication/417655067_Distributed_acoustic_sensing_for_marine_mammal_monitoring
+- Simultaneous tracking of multiple whales using two fiber-optic cables in the Arctic https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1130898/full
+- Detection of hydroacoustic signals on a fiber-optic submarine cable https://www.nature.com/articles/s41598-021-82093-8 
