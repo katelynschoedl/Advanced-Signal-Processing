@@ -17,6 +17,8 @@ Stored here in GitHub as Lecture_PDFs
 
 Stored here in GitHub as Schoedl_DAS_Array_Processing
 
+## About
+
 ### This project references functions from the custom DAS4Whales python package:
 https://github.com/DAS4Whales/DAS4Whales
 
