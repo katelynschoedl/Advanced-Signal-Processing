@@ -2,7 +2,7 @@
 
 ### The presentation is available upon request.
 
-## The research papera for the final project:
+## The research papers for the final project:
 Primary: Enhancing fin whale vocalizations in distributed acoustic sensing data
 https://pubs.aip.org/asa/jasa/article/157/5/3655/3346872/Enhancing-fin-whale-vocalizations-in-distributed
 
