@@ -1,5 +1,7 @@
 ### The Final Project is stored in FinalProject. 
 
+The slides are here (request access): https://docs.google.com/presentation/d/1-4J8tGdnAJ7rCERQRVYjC99AdPB7tyiIpsdf0TBjcDg/edit?usp=sharing 
+
 
 ## The research papers for the final project:
 Primary: Enhancing fin whale vocalizations in distributed acoustic sensing data
