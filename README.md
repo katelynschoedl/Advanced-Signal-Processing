@@ -19,7 +19,7 @@ Stored here in GitHub as Lecture_PDFs
 
 ## The Jupyter notebook / python code for the final project:
 
-Stored here in GitHub as Schoedl_DAS_Array_Processing
+Stored locally as Schoedl_DAS_Array_Processing.ipynb, uploaded to GitHub as SCHOEDL_code_raw.py (smaller filesize).
 
 ### ----------------------------------
 
