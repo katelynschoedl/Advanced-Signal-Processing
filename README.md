@@ -1,4 +1,7 @@
-### The Final Project is stored in FinalProject. 
+* This is only temporarily public, please request access! *
+
+
+## The Final Project is stored in FinalProject. 
 
 The slides are here (request access): https://docs.google.com/presentation/d/1-4J8tGdnAJ7rCERQRVYjC99AdPB7tyiIpsdf0TBjcDg/edit?usp=sharing 
 
