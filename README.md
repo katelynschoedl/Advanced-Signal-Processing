@@ -21,13 +21,43 @@ Stored here in GitHub as Lecture_PDFs
 
 Stored here in GitHub as Schoedl_DAS_Array_Processing
 
-## About
+### -
+
+## About.
 
 ### This project references functions from the custom DAS4Whales python package:
 https://github.com/DAS4Whales/DAS4Whales
 
 ### ...and source code from the primary author:
 https://github.com/Ocean-Data-Lab/Goestchel_JASA_2025
+
+### OOI Data:
+
+url_north = ['http://piweb.ooirsn.uw.edu/das/data/Optasense/NorthCable/TransmitFiber/'\
+                'North-C1-LR-P1kHz-GL50m-Sp2m-FS200Hz_2021-11-03T15_06_51-0700/'\
+                'North-C1-LR-P1kHz-GL50m-Sp2m-FS200Hz_2021-11-04T020002Z.h5'] 
+
+
+url_south = ['http://piweb.ooirsn.uw.edu/das/data/Optasense/SouthCable/TransmitFiber/'\
+        'South-C1-LR-95km-P1kHz-GL50m-SP2m-FS200Hz_2021-11-01T16_09_15-0700/'\
+        'South-C1-LR-95km-P1kHz-GL50m-SP2m-FS200Hz_2021-11-04T015914Z.h5']         
+
+        
+selected_channels = [12000, 95000, 10]
+
+
+### Metadata:
+Interrogator: OptaSense QuantX
+Laser pulse rate: 1 kHz
+Channel spacing: 2 m
+Gauge length: 50 m
+Sampling rate: 200 Hz, or 5 ms per sample
+Nyquist: 100 Hz
+Channel step: 4.08 m
+North Cable Length: 65 km
+South Cable Length: 95 km
+Seeking: vocalizations 14 - 30 Hz
+
 
 ### Cable coordinate data from the source code were also copied locally:
 \Advanced-Signal-Processing\FinalProject\data
