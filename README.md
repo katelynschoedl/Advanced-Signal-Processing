@@ -1,4 +1,4 @@
-* This is only temporarily public, please request access! *
+*This is only temporarily public, please request access!*
 
 
 ## The Final Project is stored in FinalProject. 
